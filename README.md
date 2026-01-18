@@ -6,12 +6,12 @@ This folder contains the complete source code for the Allchemist website.
 
 ```
 allchemist/
-├── index.html        # Main HTML file
-├── style.css         # Styles and variables
-├── script.js         # Animation logic
-└── assets/           # Images and animation frames
-    ├── arijit_roy.jpg
-    └── frames/       # 192 sequence images for hero animation
+├── index.html          # Main HTML file
+├── style.css           # Styles and variables
+├── script.js           # Animation logic
+└── Methane_Frames.zip  # Images and animation frames
+          # 192 sequence of compressed images for hero animation 
+            into 1 .zip file.
 ```
 
 ## 🚀 How to Deploy
